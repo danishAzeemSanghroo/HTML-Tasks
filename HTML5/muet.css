@@ -1,0 +1,98 @@
+.search{
+	position: relative;
+  	background: gray;
+ 	/*width: 150px;
+ 	height: 30px;
+*/  	left: 1000px;
+  	bottom: 100px;
+}
+#Introduction{
+	font-family: "verdina","gillsans";
+	color:blue;
+}
+.start{
+	color:white;
+	background: steelblue;
+}
+#elegiblity{
+	font-family: "Algerian";
+	font-size: 20px;
+	color:blue;
+	background-color: black;
+}
+#dept ol li{
+	color:purple;
+}
+p[sfao]{
+	font-family: "Adobe Fan Heiti Std B";
+}
+h3{
+	font-family: "Brush Script Std";
+	font-size: 20px;
+	color:white;
+	background-color: blue;	
+
+}
+#notice ul li{
+	font-family: "Old English Text MT";
+	font-size: 20px;
+	/*color:white;
+	background-color: blue;;
+*/}
+#idPage2{
+	background: black;
+	color:white;
+	border: 3px solid blue;
+	padding: 13px;
+	margin: 5px auto;	
+}
+#normal
+{
+	font-style: normal;
+}
+#italic{
+	font-style: italic;
+}
+#oblique{
+	font-style: oblique;
+}
+#smallcap
+{
+	font-variant: small-caps;
+}
+#wnormal
+{
+	font-weight: normal;
+}
+#wbolder{
+	font-weight: bolder;
+}
+#wbold{
+	font-weight: bold;
+}
+#xxlarge
+{
+	font-size: xx-large;
+}
+#xLarge{
+	font-size: x-large;
+}
+#large{
+	font-size: large;
+}
+#small{
+	font-size: small;
+}
+#medium{
+	font-size: medium;
+}
+#xxsmall
+{
+	font-size: xx-small;
+}
+#xSmall{
+	font-size: x-small;
+}
+#lineNormal{
+	line-height: normal;
+}

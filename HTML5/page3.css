@@ -1,0 +1,14 @@
+div{
+	background: #DE2F2F;
+	border: 2px solid black;
+	border-radius: 5px;
+}
+#centered{
+	background: #89CFF0;
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+#top-left{
+	
+}
